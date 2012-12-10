@@ -15,23 +15,23 @@ module Blog
   end
 
   # Title of blog
-  TITLE = 'andru.co'
+  TITLE = 'STEWARTCURTIS'
 
   # Url of blog
-  URL = 'andru.co'
+  URL = 'blog.stewartcurtis.com'
   
   # Email for comments
-  EMAIL = 'andru.weir@gmail.com'
+  EMAIL = 'curtis@stewartcurtis.com'
 
   # Path to clear cache, used for deployment hook or to clear cache from the browser
   CLEAR_CACHE_PATH = ENV['CLEAR_CACHE_PATH'] || 'clear/the/cache'
 
   # Sidebar
-  NAME         = 'Andrew Weir'
-  BLURB        = 'Entrepreneur & web developer specializing in Ruby on Rails, Node.js and PHP.'
-  GITHUB       = 'andruu'
-  TWITTER      = 'andruu'
-  LINKEDIN     = 'andruu'
+  NAME         = 'STEWARTCURTIS'
+  BLURB        = 'STEWARTCURTIS'
+  GITHUB       = 'stewartcurtis'
+  TWITTER      = 'stewartcurtis'
+  LINKEDIN     = 'stewartcurtis'
   LOCATION     = 'Toronto, Canada'
   RECENT_POSTS = 3
 
