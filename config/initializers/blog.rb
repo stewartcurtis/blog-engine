@@ -28,7 +28,7 @@ module Blog
 
   # Sidebar
   NAME         = 'STEWARTCURTIS'
-  BLURB        = 'FUCK YOUR MOTHER.'
+  BLURB        = 'STEWARTCURTIS'
   GITHUB       = 'stewartcurtis'
   TWITTER      = 'stewartcurtis'
   LINKEDIN     = 'stewartcurtis'
