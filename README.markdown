@@ -1,4 +1,4 @@
-# Dizz Diamond's Blog Engine
+# Andru's Blog Engine
 
 Setting up:
 
